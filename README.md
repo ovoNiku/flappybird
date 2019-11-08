@@ -1,2 +1,2 @@
-# flybird
+# FlappyBird
 ![](images/exm.gif "")
